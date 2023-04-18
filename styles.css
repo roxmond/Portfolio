@@ -1,4 +1,4 @@
-@import url(../root.css);
+@import url(./root.css);
 
 text-s {
     font-size: var(--text-size-s);
