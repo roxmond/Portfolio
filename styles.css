@@ -1,0 +1,30 @@
+@import url(../root.css);
+
+text-s {
+    font-size: var(--text-size-s);
+}
+
+text-m {
+    font-size: var(--text-size-m);
+}
+
+text-l {
+    font-size: var(--text-size-l);
+}
+
+text-xl {
+    font-size: var(--text-size-xl);
+}
+
+text-xxl {
+    font-size: var(--text-size-xxl);
+}
+
+text-shadow-black {
+    text-shadow: var(--shadow-text-black);
+}
+
+text-shadow-white {
+    text-shadow: var(--shadow-text-white);
+}
+/* s - m - l - xl - xxl */

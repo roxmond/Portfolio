@@ -1,0 +1,10 @@
+:root {
+    --text-size-xxl: 30px;
+    --text-size-xl: 22px;
+    --text-size-l: 18px;
+    --text-size-m: 16px;
+    --text-size-s: 14px;
+
+    --shadow-text-black: -1px 1px 2px #898686e0;
+    --shadow-text-white: -1px 1px 2px #e7e3e3e0;
+}
