@@ -8,7 +8,7 @@ To use the framework add the following links into your HTML.
 
 ## DOCUMENTATION
 ### **Use the class names into your HTML to apply its attributes.**
-## -------------
+-------------
 
 *Global Size Messure*
 ***s - m - l - xl - xxl***
